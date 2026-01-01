@@ -1,0 +1,42 @@
+cff-version: 1.2.0
+message: "If you use this software or data, please cite it as below."
+type: software
+title: "Hardy-Littlewood Goldbach Validation to N=10^12"
+abstract: "First comprehensive validation of Hardy-Littlewood Goldbach formula across 10 orders of magnitude (N ∈ [10³, 10¹²]), demonstrating convergence from -7.87% bias to +0.28% ± 2.2% (first positive bias)."
+
+authors:
+  - family-names: Chen
+    given-names: Ruqing
+    email: ruqing@hotmail.com
+    affiliation: "GUT Geoservice Inc., Montreal, Quebec, Canada"
+
+repository-code: "https://github.com/Ruqing1963/goldbach-asymptotic-validation"
+url: "https://github.com/Ruqing1963/goldbach-asymptotic-validation"
+
+keywords:
+  - Goldbach conjecture
+  - Hardy-Littlewood formula
+  - asymptotic convergence
+  - computational number theory
+  - Monte Carlo validation
+  - prime number theory
+
+license: MIT
+
+version: 1.0.0
+date-released: "2026-01-01"
+
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.18113330
+    description: "Zenodo DOI for dataset"
+
+preferred-citation:
+  type: article
+  title: "Hardy-Littlewood Goldbach Conjecture Validated to N=10^12: From Transient U-Distribution to Ultimate Asymptotic Convergence"
+  authors:
+    - family-names: Chen
+      given-names: Ruqing
+  year: 2026
+  journal: "Preprint"
+  url: "https://github.com/Ruqing1963/goldbach-asymptotic-validation"
